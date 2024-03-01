@@ -8,7 +8,6 @@ function App() {
       <h2>Section -01</h2>
       <p>WVU ID: 800334528</p>
       <p>Hi, I am Kian</p>
-      <p>test commit</p>
     </div>
   );
 }
